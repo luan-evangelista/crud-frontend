@@ -115,7 +115,7 @@ const Form = ({ getUsers, onEdit, setOnEdit}) => {
         <Input name="fone" />
       </InputArea>
       <InputArea>
-        <Label>Data de Nascimento</Label>
+        <Label>Data de nascimento</Label>
         <Input name="data_nascimento" type="date" />
       </InputArea>
 

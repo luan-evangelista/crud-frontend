@@ -9,7 +9,7 @@ import GlobalStyle from "./styles/global";
 
 const Container = styled.div`
   width: 100%;
-  max-width: 800px;
+  max-width: 900px;
   margin-top: 20px;
   display: flex;
   flex-direction: column;
